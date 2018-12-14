@@ -1,3 +1,6 @@
+## What is this
+This project, as the name suggests, contains the API of [of](https://of-api.herokuapp.com/).
+
 ## Installation
 
 ```bash
@@ -12,10 +15,6 @@ $ npm run start
 
 # watch mode
 $ npm run start:dev
-
-# incremental rebuild (webpack)
-$ npm run webpack
-$ npm run start:hmr
 
 # production mode
 $ npm run start:prod
